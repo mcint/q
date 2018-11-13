@@ -1,3 +1,4 @@
+## Downloaded from https://github.com/cal2195/q | Updated occasionally | MIT License
 # Used to hook into bash before exec
 shopt -s extdebug
 
